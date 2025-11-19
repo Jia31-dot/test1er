@@ -7,3 +7,5 @@ D:\vscodePro\test2.c
 D:\vscodePro\test4.c
 上机作业5
 D:\vscodePro\.vscode\test5.c
+上机作业6
+D:\vscodePro\.vscode\test6.c
